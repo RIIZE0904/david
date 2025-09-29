@@ -1,0 +1,12 @@
+하이	ko
+하이	ko
+하이	ko
+인사	en
+안녕	ja
+하이	en
+안녕하세요	ko
+안녕하세요	ja
+gggggg
+
+
+

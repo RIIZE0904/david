@@ -1,0 +1,5 @@
+area_category : 구조물 번호, 구조물 이름
+area_map : X 좌표, Y 좌표, 공사장 여부
+area_struct : X 좌표, Y 좌표, 구조물 번호, area 정보
+
+area : X 좌표, Y 좌표, 구조물 번호, 구조물 이름, 공사장 여부, area 정보
